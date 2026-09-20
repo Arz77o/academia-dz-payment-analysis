@@ -3,7 +3,7 @@ Excel + Power BI analysis of payment funnel data — DAX measures, interactive s
 
 # Academia DZ — Payment Conversion Analysis
 
-![Dashboard Screenshot](اسم_الصورة.png)
+![Dashboard Screenshot](Dashboard.png)
 
 ## Key Insight
 Only 18.9% of transactions completed payment successfully
