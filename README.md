@@ -3,7 +3,7 @@ Excel + Power BI analysis of payment funnel data — DAX measures, interactive s
 
 # Academia DZ — Payment Conversion Analysis
 
-![Dashboard Screenshot](dashnoard.PNG)
+![Dashboard Screenshot](dashboard.PNG)
 ![Dashboard Screenshot](excel1.PNG)
 
 ## Key Insight
